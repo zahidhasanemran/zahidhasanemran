@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Zahid Hasan Emran</h1>
 <h3 align="left">A Proactive Frontend Developer</h3>
+<br/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasanemran&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasanemran" /> </p>
 
