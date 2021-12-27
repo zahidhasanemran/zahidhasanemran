@@ -25,6 +25,8 @@
 </p>
 
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhasanemran&show_icons=true&locale=en&layout=compact" alt="zahidhasanemran" /></p>
+<br/>
 
 <h3 align="left">Languages </h3>
 <p align="left"> 
@@ -62,7 +64,7 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhasanemran&show_icons=true&locale=en&layout=compact" alt="zahidhasanemran" /></p>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhasanemran&show_icons=true&locale=en" alt="zahidhasanemran" /></p> -->
 
