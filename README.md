@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Zahid Hasan Emran</h1>
+    <h1 align="left">Hi 👋, I'm Zahid Hasan Emran</h1>
 <h3 align="left">Frontend Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasanemran&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasanemran" /> </p>
@@ -38,7 +38,6 @@
 
 </p>
 
-<br/>
 <h3 align="left">Framewors & Libraries </h3>
 <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -56,19 +55,10 @@
     
     
 </p>
-<br/>
+
 
 <h3 align="left">Tesging & Tools </h3>
 <p>
-
-
-
-
-    
-    
-    
-    
-   
     
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 
