@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidhasanemran" alt="zahidhasanemran" /></a> </p> -->
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Javascript, React and Next Js**
 
