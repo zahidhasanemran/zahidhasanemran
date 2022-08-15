@@ -64,7 +64,7 @@
 <br/>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhasanemran&show_icons=true&locale=en" alt="zahidhasanemran" /></p> -->
 
-![GitHub metrics](https://metrics.lecoq.io/zahidhasanemran)  
+
 
 <br/>
 <p></p>
