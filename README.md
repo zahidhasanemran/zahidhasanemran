@@ -11,6 +11,7 @@
 
 - 📫 Reach me at  **zahidhasanemran@gmail.com**
 
+- Check me on  <a href="https://gitlab.com/zahidhasanemran" target="blank">GitLab</a>
 <!-- ### Blogs posts
  BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
