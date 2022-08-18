@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Javascript, React and Next Js**
+- 💬 Ask me about **Javascript, Typescript React and Next Js Redux Scss Tailwind**
 
 - 📫 Reach me at  **zahidhasanemran@gmail.com**
 
