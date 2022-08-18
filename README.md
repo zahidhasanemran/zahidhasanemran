@@ -11,7 +11,7 @@
 
 - 📫 Reach me at  **zahidhasanemran@gmail.com**
 
-- Check me on  <a href="https://gitlab.com/zahidhasanemran" target="blank">GitLab</a>
+- Check me on  <a href="https://gitlab.com/zahidhasanemran" target="_blank">GitLab</a>
 <!-- ### Blogs posts
  BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zahidhasanemran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zahidhasanemran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahidhasanemran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasanemran" height="30" width="40" /></a>
-<a href="https://codesandbox.com/zahidhasanemran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="zahidhasanemran" height="30" width="40" /></a>
-<a href="https://fb.com/zahidhasanemranbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahidhasanemranbd" height="30" width="40" /></a>
+<a href="https://dev.to/zahidhasanemran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zahidhasanemran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahidhasanemran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasanemran" height="30" width="40" /></a>
+<a href="https://codesandbox.com/zahidhasanemran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="zahidhasanemran" height="30" width="40" /></a>
+<a href="https://fb.com/zahidhasanemranbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahidhasanemranbd" height="30" width="40" /></a>
 </p>
 
 
