@@ -12,9 +12,8 @@
 - 📫 Reach me at  **zahidhasanemran@gmail.com**
 
 - Check me on  <a href="https://gitlab.com/zahidhasanemran" target="_blank">GitLab</a>
-<!-- ### Blogs posts
- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blogs posts
+ <a href="https://www.linkedin.com/pulse/tricky-equations-javascript-zahid-hasan-emran" target="_blank">GitLab</a>Tricky Javascript Equations</a>
 
 <br/>
 
