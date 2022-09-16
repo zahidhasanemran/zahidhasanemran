@@ -13,7 +13,7 @@
 
 - Check me on  <a href="https://gitlab.com/zahidhasanemran" target="_blank">GitLab</a>
 ### Blogs posts
- <a href="https://www.linkedin.com/pulse/tricky-equations-javascript-zahid-hasan-emran" target="_blank">GitLab</a>Tricky Javascript Equations</a>
+ <a href="https://www.linkedin.com/pulse/tricky-equations-javascript-zahid-hasan-emran" target="_blank">Tricky Javascript Equations</a>
 
 <br/>
 
