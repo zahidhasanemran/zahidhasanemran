@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Zahid Hasan Emran</h1>
-<h3 align="left">A Proactive Frontend Developer</h3>
+<h3 align="left">A Frontend Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasanemran&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasanemran" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Javascript, Typescript React and Next Js Redux Scss Tailwind**
+- 💬 Ask me about **Javascript, Typescript React and Next Js Redux Scss Tailwind GraphQL TDD**
 
-- 📫 Reach me at  **zahidhasanemran@gmail.com**
+- 📫 Reach me at  **zahidhasanemran@gmail.com OR emrans45@gmail.com**
 
 - Check me on  <a href="https://gitlab.com/zahidhasanemran" target="_blank">GitLab</a>
 ### Blogs posts
